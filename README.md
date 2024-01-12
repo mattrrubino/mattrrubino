@@ -3,7 +3,7 @@
 ## 🙂 About Me
 - ❄️ Born and raised in Buffalo, NY
 - 🏫 Graduated with from University at Buffalo with BS in computer science
-- 👨‍💻 Passionate about all things software engineering
+- 👨‍💻 Passionate about all things machine learning and software engineering
 - ⛷️ Enjoy spending time outdoors and getting physically active
 
 ## 🌐 Contact
