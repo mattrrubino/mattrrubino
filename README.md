@@ -2,7 +2,7 @@
 
 ## 🙂 About Me
 - ❄️ Born and raised in Buffalo, NY
-- 🏫 Current CS MEng student at CU
+- 🏫 Current CS MEng student at Cornell
 - 👨‍💻 Passionate about all things software engineering and machine learning
 - ⛷️ Enjoy spending time outdoors and getting physically active
 
