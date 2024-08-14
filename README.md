@@ -2,7 +2,7 @@
 
 ## 🙂 About Me
 - ❄️ Born and raised in Buffalo, NY
-- 🏫 Graduated from University at Buffalo with BS in computer science
+- 🏫 Current CS MEng student at CU
 - 👨‍💻 Passionate about all things software engineering and machine learning
 - ⛷️ Enjoy spending time outdoors and getting physically active
 
