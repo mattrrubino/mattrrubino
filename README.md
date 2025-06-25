@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%21+I%E2%80%99m+Matthew+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I%E2%80%99m+Matthew!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## 🤓 About Me
 - 🦬 Born and raised in Buffalo, NY (Go Bills!)
