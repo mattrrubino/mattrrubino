@@ -8,7 +8,7 @@
 
 ## 🌐 Contact
 - ✉️ Email: <mrrubin04@gmail.com>
-- 🟦 LinkedIn: <https://www.linkedin.com/in/mrrubino/>
+- 🟦 LinkedIn: <https://www.linkedin.com/in/mrrubino>
 - 🤗 HuggingFace: <https://huggingface.co/mrrubino>
 
 ## 💻 Technology
